@@ -1,0 +1,11 @@
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.inspector-element {
+    position: absolute;
+    z-index: 999;
+    pointer-events: none;
+    border: 2px solid tomato;
+    transition: all 200ms;
+    background-color: rgba(180, 187, 105, 0.2);
+}

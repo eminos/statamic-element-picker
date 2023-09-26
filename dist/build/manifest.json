@@ -1,0 +1,12 @@
+{
+  "resources/css/statamic-element-picker.css": {
+    "file": "assets/statamic-element-picker-8cd5c044.css",
+    "isEntry": true,
+    "src": "resources/css/statamic-element-picker.css"
+  },
+  "resources/js/statamic-element-picker.js": {
+    "file": "assets/statamic-element-picker-bdcc5e4a.js",
+    "isEntry": true,
+    "src": "resources/js/statamic-element-picker.js"
+  }
+}
