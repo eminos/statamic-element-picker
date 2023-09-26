@@ -1,7 +1,7 @@
 {
     "name": "eminos/statamic-element-picker",
     "type": "statamic-addon",
-    "description": "A Statamic addon.",
+    "description": "A Statamic addon that adds an Element Picker fieldtype and lets you pick an element and generate a unique CSS selector for that element.",
     "license": "MIT",
     "require": {
         "statamic/cms": "^3.0||^4.0"
@@ -19,7 +19,7 @@
     "extra": {
         "statamic": {
             "name": "Statamic Element Picker",
-            "description": "A Statamic addon."
+            "description": "A Statamic addon that adds an Element Picker fieldtype and lets you pick an element and generate a unique CSS selector for that element."
         },
         "laravel": {
             "providers": [
