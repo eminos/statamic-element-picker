@@ -22,7 +22,7 @@ composer require eminos/statamic-element-picker
 - If you choose to use a URL a new window will open with that URL where you can pick your element with a click.
 - Saves a short and unique "CSS selector" for that element which you can use to find the element again (uses [finder](https://github.com/antonmedv/finder) under the hood).
 
-### Here's a screnshot of the config options.
+### Here's a screenshot of the config options.
 
 ![Screenshot of the Element Picker field config](docs/screenshot2.png)
 
